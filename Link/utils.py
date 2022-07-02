@@ -11,4 +11,4 @@ Useful for creating random IDs for URLS AND objects.
     #Get the first 8 characters of the id
     id = id[:8]
 
-    return idg
+    return id
